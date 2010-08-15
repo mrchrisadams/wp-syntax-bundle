@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>WP-Syntax</string>
+	<key>ordering</key>
+	<array>
+		<string>4A49B59D-8956-4864-BE0E-AF13D66CDC1F</string>
+	</array>
+	<key>uuid</key>
+	<string>4C91CA95-EAFF-4908-B69C-03BA0F2FFF57</string>
+</dict>
+</plist>
