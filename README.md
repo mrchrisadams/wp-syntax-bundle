@@ -20,3 +20,17 @@ Is do something like this:
 4. type the language for highlighting
 5. hit tab to decide if you want line numbering or not
 6. hit tab one more to jump the cursor inside, the `pre` block start adding code
+
+# Installation Instructions #
+
+Jump to the correct bundles directory:
+
+cd ~/Library/Application\ Support/TextMate/Bundles
+
+Then checkout the code into a directory with the appropriate suffix for Textmate to recognise it:
+
+git clone git://github.com/chris-d-adams/wp-syntax-bundle.git WP-Syntax.tmbundle
+
+Then activate the bundle in TextMate:
+
+In TextMate: Bundles > Bundle Editor > Reload Bundles
